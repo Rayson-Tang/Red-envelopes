@@ -1,6 +1,6 @@
-package com.tmr;
+package com.Rayson;
 
-import com.tmr.utils.RedPacketFrame;
+import com.Rayson.utils.RedPacketFrame;
 
 public class MyRed extends RedPacketFrame {
 
